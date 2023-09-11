@@ -1,0 +1,10 @@
+{
+	"name": "ADLSRaw",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://adlsrawskamalj.dfs.core.windows.net/"
+		}
+	}
+}
